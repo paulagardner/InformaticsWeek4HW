@@ -1,6 +1,6 @@
 
 Mtcars data: 
-![mtcars](github png url here)
+![mtcars](https://github.com/paulagardner/InformaticsWeek4HW/blob/master/mtcars.png)
 
 Answers to questions:
 1. How do you delete all output from a snakemake work flow?
